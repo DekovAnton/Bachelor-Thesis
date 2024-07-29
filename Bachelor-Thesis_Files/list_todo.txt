@@ -1,0 +1,34 @@
+da napravq vizualizaciq v gui-a da izlizat grafiki i tn. Save button da se zapazi v excel file. da moje da se testvat nqkolko razlichni i vsi4ko da izliza
+v edin excel sus save buttona. - done
+
+da promenq current input na current input limit poneje sme v CV - done
+
+dokumentaciq:
+-kursov proekt:
+zagl 
+sudurjanie
+uvod
+standard SCPI
+nqkolko stranichki za buck, boost, buck-boost
+izpolzvani tools 
+zakluchenie
+20tina stranichki
+line spacing 1.5
+
+da ne zabivam kak raboti sxemat!! t.e. da obqsnavam buck i boost
+
+
+
+dokumentaciq:
+-diplomna
+vsi4ko ot kursov proekt
+prehodni procesi
+compare dc-dc preobrazuvateli
+test dc-dc preobrazuvateli
+issue pri ustanovqvane na instrumentite i preobrazuvatelite, ne mogat da se ustanovqt zaradi delay-a. 
+kakvi sa predimstvata na instrumenta v zakluchenie
+
+
+fett tu na studenti pri diplomanti zagl stranica
+
+da checkna emaila ot chranov
